@@ -1,20 +1,21 @@
 # gestion_foot
-API REST pour la gestion des statistiques des joueurs de foot de l'équipe nationale du Togo.
 
-*Project for the occasion of D-CLIC Program just for build and deploy this API on* [Heroku Website.](https://id.heroku.com/login)
+# API REST pour la gestion des statistiques des joueurs de foot de l'équipe nationale du Togo.
 
-*Tools used to build the API :*
+# Project for the occasion of D-CLIC Program just for build and deploy this API on [Heroku Website.](https://id.heroku.com/login)
+
+# Tools used to build the API :
 
 - NodeJS 
 - Express.js – Fast, unopinionated, minimalist web framework for [Node.JS](https://nodejs.org/en/)
 
-*Packages installed :*
+# Packages installed :
 - nvm – Node Version Manager
 - npm – Node Package Manager
 - Node.js
 - Express installed with npm *(npm install express body-parser morgan).*
 
-*How to Use :*
+# How to Use :
 - POST https://safe-fjord-52502.herokuapp.com/api/v1/stats
 
     - This will create the stats a player
