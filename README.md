@@ -52,21 +52,21 @@
     - This will update the stats for player 20
 
         // this the input 
-            {
-                "id": 20,
-                "wins": 2,
-                "losses": 1,
-                "points_scored": 4
-            }
-        
-         // and it will return json file like this
+          { 
+                "id": 20, 
+                "wins": 2, 
+                "losses": 1, 
+                "points_scored": 4 
+          }
 
-            {
-                "id": 20,
-                "wins": 2,
-                "losses": 1,
-                "points_scored": 4
-            }
+        // and it will return json file like this
+
+          {
+              "id": 20,
+              "wins": 2,
+              "losses": 1,
+              "points_scored": 4
+          }
 
 - DELETE https://safe-fjord-52502.herokuapp.com/api/v1/stats/101
 
