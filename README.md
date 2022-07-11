@@ -15,18 +15,18 @@
 - Node.js
 - Express installed with npm *(npm install express body-parser morgan).*
 
-# How to Use : 
+# How to Use :
 - POST https://safe-fjord-52502.herokuapp.com/api/v1/stats
 
     - This will create the stats a player
 
         // this is the input examples
-            {
-                "id": 20,
-                "wins": 0,
-                "losses": 10,
-                "points_scored": 0
-            }
+              {
+                  "id": 20,
+                  "wins": 0,
+                  "losses": 10,
+                  "points_scored": 0
+              }
         // and it will return json file like this
             {
                 "id": 20,
