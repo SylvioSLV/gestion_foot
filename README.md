@@ -15,7 +15,7 @@
 - Node.js
 - Express installed with npm *(npm install express body-parser morgan).*
 
-# How to Use :
+# How to Use : 
 - POST https://safe-fjord-52502.herokuapp.com/api/v1/stats
 
     - This will create the stats a player
